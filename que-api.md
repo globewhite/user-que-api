@@ -9,8 +9,8 @@ GET /status
 
 Returns the status of the API.
 
-List of books
-GET /api
+List of apis
+GET /apis
 
 
 
