@@ -1,7 +1,7 @@
 Simple Books API
 This API allows you to reserve a book.
 
-The API is available at https://que-api.glitch.me
+The API is available at https://que-api.aco.me
 
 Endpoints
 Status
